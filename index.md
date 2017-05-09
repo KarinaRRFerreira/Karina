@@ -21,9 +21,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**CONHEÇA MAIS KARINA** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Nascida no dia 10 de maio de 1998, na cidade Santo André, Karina cresceu no bairro Jardim Las Vegas. Cresceu cercada por familiares e amigos e na adolescencia se encantou pela Engenharia. Quer saber mais? Clique no link > [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
